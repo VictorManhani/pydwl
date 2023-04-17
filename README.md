@@ -14,3 +14,7 @@ vercel dev
 ```
 
 Your Python API is now available at `http://localhost:3000/api`.
+
+# Referals
+- https://github.com/VictorManhani/pydwl
+- https://github.com/mulesoft-labs/data-weave-cli
