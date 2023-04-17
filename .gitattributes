@@ -1,3 +1,4 @@
+dw.* filter=lfs diff=lfs merge=lfs -text
 /cli/linux/bin/dw filter=lfs diff=lfs merge=lfs -text
 /cli/windows/bin/dw.exe filter=lfs diff=lfs merge=lfs -text
 /cli/windows/bin/dw.exp filter=lfs diff=lfs merge=lfs -text
